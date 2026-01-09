@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "nome": "Notebook LENOVO",
+    "preco": 350000,
+    "imagem": "https://media.istockphoto.com/id/506040738/pt/foto/moderno-pc-com-curva-de-ecr%C3%A3.jpg?s=612x612&w=0&k=20&c=jsZ3jnDLdqk9jBj-p8Cp-20AGc8xp66i2WMNW71tstA=",
+    "descricao": "Notebook rápido e moderno"
+  },
+  
+  {
+    "id": 2,
+    "nome": "Notebook LENOVO",
+    "preco": 350000,
+    "imagem": "https://thumbs.dreamstime.com/b/configura%C3%A7%C3%A3o-do-computador-desktop-elegante-teclado-e-mouse-modernos-monitor-de-torre-pc-uma-moderna-que-mostra-um-tela-plana-391602211.jpg",
+    "descricao": "Notebook rápido e moderno"
+  },
+    {
+        "id": 3,
+        "nome": "Notebook LENOVO",
+        "preco": 350000,
+        "imagem": "https://hp.widen.net/content/yfdwfdcihk/png/yfdwfdcihk.png?w=800&h=600&dpi=72&color=ffffff00",
+        "descricao": "Notebook rápido e moderno"
+    },
+    {
+        "id": 4,
+        "nome": "Notebook LENOVO",
+        "preco": 350000,
+        "imagem": "https://png.pngtree.com/png-vector/20250106/ourmid/pngtree-vibrant-rgb-gaming-pc-setup-png-image_15074212.png",
+        "descricao": "Notebook rápido e moderno"
+    },
+    {
+        "id": 5,
+        "nome": "Notebook LENOVO",
+        "preco": 350000,
+        "imagem": "https://m.media-amazon.com/images/I/41tfJoiNzeL.jpg",
+        "descricao": "Notebook rápido e moderno"
+    },
+    {
+        "id": 6,
+        "nome": "Notebook LENOVO",
+        "preco": 350000,
+        "imagem": "https://m.media-amazon.com/images/I/71qVtymhYiL._AC_UF894,1000_QL80_.jpg",
+        "descricao": "Notebook rápido e moderno"
+    },
+    {
+        "id": 7,
+        "nome": "Notebook LENOVO",
+        "preco": 350000,
+        "imagem": "https://www.microxol.com/wp-content/uploads/2024/04/1709584922741.jpg",
+        "descricao": "Notebook rápido e moderno"
+    },
+    {
+        "id": 8,
+        "nome": "Notebook LENOVO",
+        "preco": 350000,
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_984010-MEC70612910283_072023-T.webp",
+        "descricao": "Notebook rápido e moderno"
+    }
+
+]

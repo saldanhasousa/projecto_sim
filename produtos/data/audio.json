@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nome": "Fones de Ouvido Bluetooth",
+    "preco": 350000,
+    "imagem": "https://www.lores.com.br/product_images/m/510/11946__31601_std.jpg",
+    "descricao": "Fones sem fio que se conecta via Bluetooth e compatibilidade com smartphones"
+  },
+  {
+    "id": 2,
+    "nome": "Caixa de Som Portátil",
+    "preco": 450000,
+    "imagem": "https://audioprime.cdn.magazord.com.br/img/2023/11/blog/24922/melhor-caixa-de-som-portatil-bluetooth-em-2023-max-10.png",
+    "descricao": "Caixa de som compacta e leve, ideal para levar música para qualquer lugar."
+  },
+  {
+    "id": 3,
+    "nome": "Headphone Gamer com Microfone",
+    "preco": 600000,
+    "imagem": "https://a-static.mlcdn.com.br/%7Bw%7Dx%7Bh%7D/headset-gamer-fone-de-ouvido-led-rgb-som-7-1-com-microfone-estereo-para-pc-notebook-smartphone-knup/jpbcwebstore/kp464/a4ad682fe5ac97d0ab003ba0a75304e1.jpeg",
+    "descricao": "Headphone gamer com microfone integrado, ideal para jogos e chamadas."
+  },
+    {
+        "id": 4,
+        "nome": "Soundbar para TV",
+        "preco": 800000,
+        "imagem": "https://www.techhive.com/wp-content/uploads/2023/04/Samsung-HW-Q990B.jpeg?quality=50&strip=all&w=1024",
+        "descricao": "Melhora a qualidade do som da sua TV, proporcionando uma experiência de áudio imersiva."
+    },
+    {
+        "id": 5,
+        "nome": "Sistema de som automotivo",
+        "preco": 150000,
+        "imagem": "https://m.media-amazon.com/images/I/61aUyVzeP7L.jpg",
+        "descricao": "Adaptador que permite conectar seu smartphone ao sistema de som do carro via Bluetooth."
+    },
+    {
+        "id": 6,
+        "nome": "Microfone USB para Podcast",
+        "preco": 400000,
+        "imagem": "https://cdn.awsli.com.br/600x450/61/61454/produto/225156152/captura-de-tela-2023-07-12-162400-s18nyg597w.png",
+        "descricao": "Microfone USB de alta qualidade, ideal para gravação de podcasts, streaming e videoconferências."
+    }, 
+    {
+        "id": 7,
+        "nome": "Fones de Ouvido com Fios",
+        "preco": 900000,
+        "imagem": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/989023/xlarge/Fone-Ouvido-Com-Fio-Compat-vel-Com-Iphone-7-8-Xr-11-12-13-14_1765220620.webp",
+        "descricao": "Fone de ouvido premium com tecnologia de cancelamento de ruído ativo."
+    },
+    {
+        "id": 8,
+        "nome": "Placa de Som Externa",
+        "preco": 550000,
+        "imagem": "https://ae01.alicdn.com/kf/Sdee6e4f0ebd64e1cad2e38eb6fb65f84e.jpg",
+        "descricao": "Placa de som externa USB que melhora a qualidade do áudio do seu computador."
+    }
+]

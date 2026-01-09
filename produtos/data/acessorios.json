@@ -1,0 +1,62 @@
+[
+
+  {
+    "id": 1,
+    "nome": "Tecno Camon",
+    "preco": 350000,
+    "imagem": "https://phonesstorekenya.com/wp-content/uploads/2021/04/Tecno-Spark-7-a.jpg",
+    "descricao": "Notebook rápido e moderno"
+  },
+
+  {
+    "id": 2,
+    "nome": "Celular Iphone 15",
+    "preco": 280000,
+    "imagem": "https://isolutions.pt/6393-large_default/iphone-15-pro-256gb-titanio-branco-novo-selado-em-caixa.jpg",
+    "descricao": "Excelente câmera"
+  }
+  ,
+  {
+    "id": 3,
+    "nome": "Celular Iphone 17",
+    "preco": 280000,
+    "imagem": "https://www.icase.pt/5491-large_default/apple-iphone-17-pro-max-256gb-prateado.jpg",
+    "descricao": "Excelente câmera"
+  },
+  {
+    "id": 4,
+    "nome": "Celular Samsung S23",
+    "preco": 220000,
+    "imagem": "https://shop.greengadgets.net.au/cdn/shop/products/SAMS916B256WHTA_800x.jpg?v=1749775260",
+    "descricao": "Ótima bateria"
+  },
+  {
+    "id": 5,
+    "nome": "Celular Samsung 21",
+    "preco": 250000,
+    "imagem": "https://revibe.co.za/cdn/shop/files/PhantomGray_be99e9c6-be36-4e8f-83db-b8d1eab2819d.png?v=1723727996",
+    "descricao": "Ótima bateria"
+  },
+  {
+    "id": 6,
+    "nome": "Celular Samsung S9",
+    "preco": 230000,
+    "imagem": "https://i.zst.com.br/thumbs/12/13/38/240646007.jpg",
+    "descricao": "Ótima bateria"
+  },
+  {
+    "id": 7,
+    "nome": "Celular Xiaomi Redmi Note 12",
+    "preco": 120000,
+    "imagem": "https://i02.appmifile.com/541_operatorx_operatorx_opx/22/08/2025/c15b4756b67078d1129a0f13ecb9aff4.png?thumb=1&w=400&q=85",
+    "descricao": "Custo benefício"
+  },
+  {
+    "id": 8,
+    "nome": "Celular Xiaomi Poco X5 Pro",
+    "preco": 150000,
+    "imagem": "https://bbfea74ff2.clvaw-cdnwnd.com/08eafed196eb795e0300689095b88b9f/200000617-b31b0b31b4/700/poco%20x5%20pro.jpeg?ph=bbfea74ff2",
+    "descricao": "Custo benefício"
+  }
+
+]

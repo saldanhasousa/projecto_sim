@@ -1,0 +1,199 @@
+/* Custom CSS */
+body{
+    overflow-x: hidden;
+}
+
+.h2_hero{
+    color: white;
+  mix-blend-mode: difference;
+
+    font-size: 6rem;
+    animation: textAnimation 6s infinite;
+    
+}
+
+@keyframes textAnimation {
+    from {
+        transform: translateX(-100px);
+        opacity: 0;
+    }
+    to{
+        transform: translateX(0);
+    }
+}
+
+
+.container_item{
+    display: flex;
+    width: fit-content;
+    animation: scroll 20s linear infinite;
+
+}
+
+@keyframes scroll {
+    0%{
+        transform: translateX(0);
+    }
+    100%{
+        transform: translateX(-50%);
+    }
+}
+
+
+.container_items{
+    animation: carrossel 10s ease infinite;
+}
+
+@keyframes carrossel{
+    0%{
+        transform: translateX(0);
+    }
+
+    50%{
+        transform: translateX(-200px);
+    }
+    
+    100%{
+        transform: translateX(0);
+    }
+}
+
+.product-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.cart-item-enter {
+    opacity: 0;
+    transform: translateX(-20px);
+}
+
+.cart-item-enter-active {
+    opacity: 1;
+    transform: translateX(0);
+    transition: all 300ms ease-in;
+}
+
+.cart-item-exit {
+    opacity: 1;
+}
+
+.cart-item-exit-active {
+    opacity: 0;
+    transform: translateX(20px);
+    transition: all 300ms ease-in;
+}
+
+.hero-gradient {
+    height: 500px;
+    background-image: url(https://www.edivaldobrito.com.br/wp-content/uploads/2025/04/apple-revelara-mais-de-15-novos-produtos-ainda-este-ano.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+
+}
+
+.discount-badge {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #ef4444;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.iframe {
+    display: flex;
+    position: relative;
+}
+
+.btn-comprar, .btn-adicionar {
+    
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    margin: 5px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9rem;
+}
+
+.btn-comprar{
+    background-color: #0d6efd;
+}
+
+.btn-adicionar {
+    background-color: #198754;
+}
+
+
+
+.btn-comprar:hover, .btn-detalhes:hover {
+    background-color: #0b5ed7;
+}
+
+
+/*CARDS GERAL*/
+
+.carrossel {
+  display: flex;
+  gap: 1rem;
+  overflow-x: auto;
+  padding: 1rem 0;
+  scroll-behavior: smooth;
+}
+
+.carrossel::-webkit-scrollbar {
+  height: 8px;
+}
+
+.carrossel::-webkit-scrollbar-thumb {
+  background: #7c3aed; /* roxo */
+  border-radius: 4px;
+}
+
+
+
+.produtos, .acessorios, .desktop, .audio, .todosProdutos{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 10px 20px rgba(0,0,0,.08);
+  overflow: hidden;
+  transition: transform .3s;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  cursor: pointer;
+}
+
+.card img {
+  width: 100%;
+  height: 60%;
+  object-fit: cover;
+}
+
+.card-body {
+  padding: 15px;
+}
+
+.card-body h3 {
+  margin: 0 0 10px;
+}
+
+.preco {
+  color: #0d6efd;
+  font-weight: bold;
+  font-size: 1.1rem;
+}

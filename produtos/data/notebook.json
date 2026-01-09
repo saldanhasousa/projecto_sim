@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "nome": "Notebook LENOVO",
+    "preco": 350000,
+    "imagem": "https://t.ctcdn.com.br/ZnGS2zbx5yT-Ht6u-hmcRON7D24=/fit-in/600x600/filters:fill(transparent):watermark(wm/prd.png,-32p,center,1,none,15)/i527053.png",
+    "descricao": "Notebook rápido leve e moderno"
+  },
+  {
+    "id": 2,
+    "nome": "Notebook SANSUNG",
+    "preco": 280000,
+    "imagem": "https://images.fravega.com/f300/265e1d2cddbae14120dafba592bdce9f.jpg",
+    "descricao": "Excelente câmera"
+  }
+,
+  {
+    "id": 3,
+    "nome": "Notebook HP",
+    "preco": 280000,
+    "imagem": "https://s2-techtudo.glbimg.com/6b7iLzx0UrS88WnWOWPug8zZdS8=/0x0:695x440/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/L/P/RH5ggIQzAMseABXEmMYg/2016-12-09-hp.jpg",
+    "descricao": "Excelente câmera"
+  }
+ , 
+  {
+    "id": 4,
+    "nome": "NOTEBOOK MAC IOS",
+    "preco": 280000,
+    "imagem": "https://leoscherer.com.br/wp-content/uploads/2022/11/IMG_5877.jpg",
+    "descricao": "Excelente câmera"
+  }
+  ,
+  {
+    "id": 5,
+    "nome": "Notebook DELL",
+    "preco": 280000,
+    "imagem": "https://s.zst.com.br/cms-assets/2022/01/em-qual-categoria-um-notebook-dell-i5-se-encaixa.webp",
+    "descricao": "Excelente câmera"
+  }
+  ,
+  {
+    "id": 6,
+    "nome": "Notebook PRO",
+    "preco": 280000,
+    "imagem": "https://i.gadgets360cdn.com/products/large/Mi-notebook-pro-DB-764x800-1629965022.jpg",
+    "descricao": "Excelente câmera"
+ }
+ ,  {
+    "id": 7,
+    "nome": "Notebook XIAOMI",
+    "preco": 280000,
+    "imagem": "https://i02.appmifile.com/963_operator_sg/29/08/2022/8de8996b09f88c4eb537f27ac32e76f4.png",
+    "descricao": "Excelente câmera"
+  }
+  ,
+  {
+    "id": 8,
+    "nome": "Notebook ACER",
+    "preco": 280000,
+    "imagem": "https://images.tcdn.com.br/img/img_prod/1309919/notebook_acer_aspire_5_intel_core_i7_12650h_8gb_ram_ssd_256gb_15_6_full_hd_intel_uhd_linux_gutta_a51_1495_2_25d51b4f4aa35563617d505b515e1448.jpg",
+    "descricao": "Excelente câmera"
+  }
+]

@@ -1,0 +1,64 @@
+[
+
+  {
+    "id": 1,
+    "nome": "Tecno Camon",
+    "preco": 350000,
+    "imagem": "https://phonesstorekenya.com/wp-content/uploads/2021/04/Tecno-Spark-7-a.jpg",
+    "descricao": "Notebook rápido e moderno"
+  },
+
+  {
+    "id": 2,
+    "nome": "Celular Iphone 15",
+    "preco": 280000,
+    "imagem": "https://isolutions.pt/6393-large_default/iphone-15-pro-256gb-titanio-branco-novo-selado-em-caixa.jpg",
+    "descricao": "Excelente câmera"
+  }
+  ,
+  {
+    "id": 13,
+    "nome": "Fones de Ouvido Bluetooth",
+    "preco": 350000,
+    "imagem": "https://www.lores.com.br/product_images/m/510/11946__31601_std.jpg",
+    "descricao": "Fones sem fio que se conecta via Bluetooth e compatibilidade com smartphones"
+  },
+  {
+    "id": 23,
+    "nome": "Caixa de Som Portátil",
+    "preco": 450000,
+    "imagem": "https://audioprime.cdn.magazord.com.br/img/2023/11/blog/24922/melhor-caixa-de-som-portatil-bluetooth-em-2023-max-10.png",
+    "descricao": "Caixa de som compacta e leve, ideal para levar música para qualquer lugar."
+  },
+  {
+    "id": 31,
+    "nome": "Notebook LENOVO",
+    "preco": 350000,
+    "imagem": "https://t.ctcdn.com.br/ZnGS2zbx5yT-Ht6u-hmcRON7D24=/fit-in/600x600/filters:fill(transparent):watermark(wm/prd.png,-32p,center,1,none,15)/i527053.png",
+    "descricao": "Notebook rápido leve e moderno"
+  },
+  {
+    "id": 52,
+    "nome": "Notebook SANSUNG",
+    "preco": 280000,
+    "imagem": "https://images.fravega.com/f300/265e1d2cddbae14120dafba592bdce9f.jpg",
+    "descricao": "Excelente câmera"
+  }
+,
+
+{
+    "id": 14,
+    "nome": "Notebook LENOVO",
+    "preco": 350000,
+    "imagem": "https://media.istockphoto.com/id/506040738/pt/foto/moderno-pc-com-curva-de-ecr%C3%A3.jpg?s=612x612&w=0&k=20&c=jsZ3jnDLdqk9jBj-p8Cp-20AGc8xp66i2WMNW71tstA=",
+    "descricao": "Notebook rápido e moderno"
+  },
+  
+  {
+    "id": 82,
+    "nome": "Notebook LENOVO",
+    "preco": 350000,
+    "imagem": "https://thumbs.dreamstime.com/b/configura%C3%A7%C3%A3o-do-computador-desktop-elegante-teclado-e-mouse-modernos-monitor-de-torre-pc-uma-moderna-que-mostra-um-tela-plana-391602211.jpg",
+    "descricao": "Notebook rápido e moderno"
+  }
+]
